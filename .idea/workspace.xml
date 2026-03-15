@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5ab69d3-a3f4-4796-8975-4556cb157586" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/djangoproject/djangoproject/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/djangoproject/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/djangoproject/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +79,8 @@
       <updated>1766950220746</updated>
       <workItem from="1766950221994" duration="181000" />
       <workItem from="1766950530715" duration="148000" />
+      <workItem from="1767899296724" duration="114000" />
+      <workItem from="1767900165729" duration="40000" />
     </task>
     <servers />
   </component>
